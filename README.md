@@ -147,7 +147,7 @@
 - Iconos utilizados en este proyecto de varios colaboradores en [libretro](https://github.com/libretro/retroarch-assets/tree/master/xmb/monochrome/png) bajo la licencia [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 - No dudes en dejar tus sugerencias para nuevas colecciones.
-- Estas imágenes de nombres de consolas están diseñadas para la creación de temas en Pegasus Frontend, aunque también puedes utilizarlas en otras plataformas si lo prefieres.
+- "Estas imágenes han sido recreadas específicamente para el tema [Anbernic-Theme](https://github.com/ZagonAb/anbernic-theme), pero eres libre de utilizarlas en otros proyectos si lo deseas."
 
 # Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
