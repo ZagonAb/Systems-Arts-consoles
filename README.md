@@ -10,7 +10,6 @@
 - Utilicé la lista de colecciones de [libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails) para el nombre de cada colección.
 
 # Iconos shotnames 
-- Las imágenes han sido recreadas procurando mantener la mayor fidelidad posible al estilo original.
 
 - "Estas imágenes han sido recreadas específicamente para el tema [Anbernic-Theme](https://github.com/ZagonAb/anbernic-theme), pero eres libre de utilizarlas en otros proyectos si lo deseas."
 
