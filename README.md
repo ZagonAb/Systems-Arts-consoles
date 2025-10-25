@@ -1,21 +1,20 @@
-# ¡Nombres de consolas artísticas para temas de colección retro!
+# Artistic Console Names for Retro Collection Themes
 
-- short names without gamepads
+- Short names without gamepads  
 ![image alt](https://github.com/ZagonAb/Systems-Arts-consoles/blob/e56cfade93fff7a8c3d6c0e3761c6a481b373453/.scrennshot/image.png)
 
-- short names and gamepads
+- Short names with gamepads  
 ![image alt](https://github.com/ZagonAb/Systems-Arts-consoles/blob/9669a1a3eda2700fe78b8b0060f22fd7ceddcd3b/.scrennshot/image2.png)
 
-- Inspirado en la temática que anbernic utiliza en sus colecciones.
-- Utilicé la lista de colecciones de [libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails) para el nombre de cada colección.
+- Inspired by the theme used by Anbernic in their collections.  
+- I used the collection list from [libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails) for the name of each collection.
 
-# Iconos shotnames 
+# Shortname Icons
 
-- "Estas imágenes han sido recreadas específicamente para el tema [Anbernic-Theme](https://github.com/ZagonAb/anbernic-theme), pero eres libre de utilizarlas en otros proyectos si lo deseas."
-
+- "These images were specifically recreated for the [Anbernic-Theme](https://github.com/ZagonAb/anbernic-theme), but you are free to use them in other projects if you wish."
 
 <details>
-  <summary>Lista de colecciones actual</summary>
+  <summary>Current collection list</summary>
 
   - mastersystem.png = Sega - Master System - Mark III
   - dreamcast.png = Sega - Dreamcast
@@ -144,11 +143,19 @@
 
 </details>
 
-# Iconos Monochrome de RetroArch
+# RetroArch Monochrome Icons
 
-- Iconos utilizados en este proyecto de varios colaboradores en [libretro](https://github.com/libretro/retroarch-assets/tree/master/xmb/monochrome/png) bajo la licencia [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
+- Icons used in this project come from various contributors on [libretro](https://github.com/libretro/retroarch-assets/tree/master/xmb/monochrome/png) under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license.
 
-- No dudes en dejar tus sugerencias para nuevas colecciones.
+- Feel free to leave your suggestions for new collections.
 
-# Licencia
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
+# License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
+
+
+
+### 💖 DONATE
+I'm a programming enthusiast and passionate about free software, with a special love for classic games and the retro community. All my themes and projects are open-source and available for anyone to use. If you'd like to show your support or help me continue creating and improving these projects, you can make a voluntary donation. Every contribution, no matter how small, allows me to continue improving and maintaining these projects. 👾
+
+[![Support on PayPal](https://img.shields.io/badge/PayPal-0070ba?style=for-the-badge)](https://paypal.me/ZagonAb)
+[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Gonzalo/donate)
